@@ -5,7 +5,7 @@ Some new commands for Doom 1/ultimate
 
 
 to run it:
- move both files to Doom folder
+ move both files to Doom folder (Doomframe.frm & uninstaller.frm)
  
 open the console in Doom.
 
