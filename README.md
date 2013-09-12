@@ -12,3 +12,7 @@ open the console in Doom.
 type exec Doomframe.frm
 
 jobs done. enjoy the new commands
+
+obs: This project is still under construction.
+
+//Daniel Søgaard
