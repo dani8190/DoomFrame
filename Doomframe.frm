@@ -29,7 +29,7 @@ echo Installing.......
 	alias cheats(1) "sv_cheats 1;map(1);echo done"
 	alias cheats(0) "sv_cheats 0;map(1);echo done"
 	alias surprise "echo motherfucker"
-	alias reinstall() "echo reinstallere;exec uninstall.frm;exec doomframe.frm"
+	alias reinstall() "echo reinstalling;exec uninstall.frm;exec doomframe.frm"
 	alias health() "give health 50000"
 	alias ammo() "give ammo"
 	alias all "give all;health()"
