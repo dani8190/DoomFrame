@@ -20,24 +20,31 @@ echo Installing.......
 	alias map(7) "map e1m7"
 	alias map(8) "map e1m8"
 	alias map(9) "map e1m9"
+	alias map(list) "echo list of all maps \n--------\nmap(1) \nmap(2) \nmap(3) \nmap(4) \nmap(5) \nmap(6) \nmap(7) \nmap(8) \nmap(9)"
 	alias uninstall() "exec uninstall.frm"
 	secretmessage "Nice Work"
+	alias die "kill;kill;kill;kill"
 	alias scary(1) "testfade darkred;testcolor grey"
 	alias scary(2) "testfade darkgreen;testcolor grey"
 	alias cheats(1) "sv_cheats 1;map(1);echo done"
 	alias cheats(0) "sv_cheats 0;map(1);echo done"
 	alias surprise "echo motherfucker"
 	alias reinstall() "echo reinstallere;exec uninstall.frm;exec doomframe.frm"
-	alias health() "give health 30000"
+	alias health() "give health 50000"
 	alias ammo() "give ammo"
 	alias all "give all;health()"
 	alias hicon() "toggleconsole"
+	alias hardneasy() "skill 5;cheats(1);echo done"
+	alias nightmare() "skill 5"
+	alias end "exit"
 
 		//other settings
 		developer 1
 		
 
 
+		//includes here
+		
 
 
-echo "dette er kun en test \n good luck :)"
+echo "DoomFrame is up and Running. \n type 'alias' to see all commands"
