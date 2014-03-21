@@ -36,7 +36,7 @@ echo Installing.......
 	alias hicon() "toggleconsole"
 	alias hardneasy() "skill 5;cheats(1);echo done"
 	alias nightmare() "skill 5"
-	alias end "exit"
+	alias end "quit"
 
 		//other settings
 		developer 1
