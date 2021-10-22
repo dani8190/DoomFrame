@@ -13,7 +13,7 @@ type exec Doomframe.frm
 
 jobs done. enjoy the new commands
 
-after installing Doomframe, you and install Naruto framework as an exstension.
+after installing Doomframe, you can install Naruto framework as an extension.
 
 type exec Naruto.frm
 
